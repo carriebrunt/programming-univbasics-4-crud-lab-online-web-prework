@@ -50,5 +50,5 @@ end
 
 def update_element_from_index(array, index_number, element)
 picnic_ingredients = ["wine", "jalapeños", "donkey feed"]
-
+picnic_ingredients[4] = "totally"
 end
