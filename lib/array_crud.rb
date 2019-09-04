@@ -32,7 +32,8 @@ end
 
 def retrieve_element_from_index(array, index_number)
   famous_cheer =  ["Jamal", "Logo_dash", "Tyler_B"]
-  famous_cheer[0]
+  
+  famous_cheer[1]
 end
 
 def retrieve_first_element_from_array(array)
