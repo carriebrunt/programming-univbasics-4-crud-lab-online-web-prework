@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   animals = ["cat", "dog", "fish", "hamster"]
-  arrays! = animals.pop
+  arrays = animals.pop
   p animals
 end
 
