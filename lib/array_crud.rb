@@ -14,7 +14,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   animals = ["cat", "dog", "fish", "hamster"]
-  animals.push("arrays!")
+  animals.unshift("arrays!")
   p animals
 end
 
