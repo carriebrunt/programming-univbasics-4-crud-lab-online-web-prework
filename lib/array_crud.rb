@@ -31,9 +31,9 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  famous_cheer =  ["Jamal", "Logo_dash", "Tyler_B"]
-  
-  famous_cheer[1]
+ famous_cats =  ["Cheshire Cat", "Puss in Boots", "Garfield"]
+ 
+famous_cats[1]
 end
 
 def retrieve_first_element_from_array(array)
