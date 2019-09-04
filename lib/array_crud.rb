@@ -43,7 +43,9 @@ famous_cats[0]
 end
 
 def retrieve_last_element_from_array(array)
-  
+ famous_cats =  ["wow", "am", "arrays!"]
+ 
+famous_cats[2] 
 end
 
 def update_element_from_index(array, index_number, element)
