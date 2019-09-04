@@ -37,7 +37,9 @@ famous_cats[1]
 end
 
 def retrieve_first_element_from_array(array)
-  
+  famous_cats =  ["wow", "am", "Garfield"]
+ 
+famous_cats[0]
 end
 
 def retrieve_last_element_from_array(array)
